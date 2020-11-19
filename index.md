@@ -15,14 +15,14 @@ Program which allows users to study terms. Practice in arrays, RNGs, and externa
 Program made to practice branching, collectable items, and inventories. 
 [Explorable Areas](https://github.com/reilly8701/Explorable-Areas)
  
- ### :fish: Underwater Creatures :fish:
+### :fish: Underwater Creatures :fish:
  Program to practice the 3 golden rules of object oriented programming: inheritance, polymorphism, and encapsulation. 
  [Underwater Creatures](https://github.com/reilly8701/UnderwaterCreatures)
  
- ### :bug: Adopt-N-Insect :bug:
+### :bug: Adopt-N-Insect :bug:
  Practice for creating UMLs and creating basic classes and methods
  [Adopt an Insect](https://github.com/reilly8701/Adopt-an-Insect)
  
- ### :book: Trivia Game :book:
+### :book: Trivia Game :book:
  Game created to practice UML creation, player imput, and storing information
  [Trivia Game](https://github.com/reilly8701/TriviaGame)
