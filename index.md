@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Maura Reilly's Intro to Programming Portfolio
 
-You can use the [editor on GitHub](https://github.com/reilly8701/reilly8701.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Completed Projects
 
-### Markdown
+### :dog: Adventure Game: Dog Walk! :dog:
+Game created to practice the 3 golden rules of object oriented programming: inheritance, polymorphism, and encapsulation. 
+[Dog Walk] (https://github.com/reilly8701/DogWalkGame)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### :pencil: Study Application :pencil:
+Program which allows users to study terms. Practice in arrays, RNGs, and external document reading.
+[Study Program] (https://github.com/reilly8701/Study-Application)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/reilly8701/reilly8701.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### :earth_americas: Explorable Areas :earth_americas:
+Program made to practice branching, collectable items, and inventories. 
+[Explorable Areas] (https://github.com/reilly8701/Explorable-Areas)
+ 
+ ### :fish: Underwater Creatures :fish:
+ Program to practice the 3 golden rules of object oriented programming: inheritance, polymorphism, and encapsulation. 
+ [Underwater Creatures] (https://github.com/reilly8701/Underwater-Creatures)
+ 
+ ### :bug: Adopt-N-Insect :bug:
+ Practice for creating UMLs and creating basic classes and methods
+ [Adopt an Insect] (https://github.com/reilly8701/Adopt-an-Insect)
+ 
+ ### :book: Trivia Game :book:
+ Game created to practice UML creation, player imput, and storing information
+ [Trivia Game] (https://github.com/reilly8701/Trivia-Game)
