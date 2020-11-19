@@ -5,11 +5,11 @@
 
 ### :dog: Adventure Game: Dog Walk! :dog:
 Game created to practice the 3 golden rules of object oriented programming: inheritance, polymorphism, and encapsulation. 
-[Dog Walk](https://github.com/reilly8701/DogWalkGame)
+[Dog Walk](https://github.com/reilly8701/Dog-Walk-Game)
 
 ### :pencil: Study Application :pencil:
 Program which allows users to study terms. Practice in arrays, RNGs, and external document reading.
-[Study Program](https://github.com/reilly8701/Study-Application)
+[Study Program](https://github.com/reilly8701/Study-Program)
 
 ### :earth_americas: Explorable Areas :earth_americas:
 Program made to practice branching, collectable items, and inventories. 
@@ -17,7 +17,7 @@ Program made to practice branching, collectable items, and inventories.
  
  ### :fish: Underwater Creatures :fish:
  Program to practice the 3 golden rules of object oriented programming: inheritance, polymorphism, and encapsulation. 
- [Underwater Creatures](https://github.com/reilly8701/Underwater-Creatures)
+ [Underwater Creatures](https://github.com/reilly8701/UnderwaterCreatures)
  
  ### :bug: Adopt-N-Insect :bug:
  Practice for creating UMLs and creating basic classes and methods
@@ -25,4 +25,4 @@ Program made to practice branching, collectable items, and inventories.
  
  ### :book: Trivia Game :book:
  Game created to practice UML creation, player imput, and storing information
- [Trivia Game](https://github.com/reilly8701/Trivia-Game)
+ [Trivia Game](https://github.com/reilly8701/TriviaGame)
