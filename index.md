@@ -15,7 +15,7 @@ Program which allows users to study terms. Practice in arrays, RNGs, and externa
 
 ### Explorable Areas
 Program made to practice branching, collectable items, and inventories. 
-[Explorable Areas](https://github.com/reilly8701/Explorable-Areas)
+[Explorable Areas](https://github.com/reilly8701/ExplorableAreas)
  
 ### Underwater Creatures 
  Program to practice the 3 golden rules of object oriented programming: inheritance, polymorphism, and encapsulation. 
