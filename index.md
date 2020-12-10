@@ -24,8 +24,9 @@ Program made to practice branching, collectable items, and inventories.
 ### Adopt-N-Insect
  Practice for creating UMLs and creating basic classes and methods
  [Adopt an Insect](https://github.com/reilly8701/Adopt-an-Insect)
+ [Adopt an Insect GUI version](https://github.com/reilly8701/Bug-Adoption-GUI)
  
 ### Trivia Game
  Game created to practice UML creation, player imput, and storing information
  [Trivia Game](https://github.com/reilly8701/TriviaGame)
- [Trivia Game UMI](https://github.com/reilly8701/Trivia-GUI)
+ [Trivia Game GUI version](https://github.com/reilly8701/Trivia-GUI)
