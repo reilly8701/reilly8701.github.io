@@ -28,3 +28,4 @@ Program made to practice branching, collectable items, and inventories.
 ### Trivia Game
  Game created to practice UML creation, player imput, and storing information
  [Trivia Game](https://github.com/reilly8701/TriviaGame)
+ [Trivia Game UMI](https://github.com/reilly8701/Trivia-GUI)
